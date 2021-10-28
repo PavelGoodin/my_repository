@@ -1,0 +1,40 @@
+
+body
+{
+	font-family: 'Open Sans', sans-serif;
+	color: #201b2d;
+	font-size: 15px;
+  	margin: 0;
+  	padding: 0;
+  	background: #acb5bd;
+}
+
+h1
+{
+	text-align: center;
+}
+
+#header
+{
+
+height: 70px;
+border-bottom: 4px solid silver;
+background: #dbfaff;
+font-size: 20px;
+line-height: 70px;
+margin-bottom: 25px;
+color: black;
+
+
+}
+
+
+#main
+{
+  
+  
+  height: 700px;
+  padding: 20px;
+  background: #dbfaff;
+
+}
